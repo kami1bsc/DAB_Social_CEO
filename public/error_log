@@ -1,0 +1,88 @@
+[02-Sep-2020 05:24:01 Etc/GMT] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('config')
+#1 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('config')
+#2 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('config', Array, true)
+#3 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Foundation\Application->resolve('config', Array)
+#4 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(781): Illuminate\Container\Container->make('config', Array)
+#5 /home/openthedoor/publ in /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[02-Sep-2020 05:24:07 Etc/GMT] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('config')
+#1 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('config')
+#2 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('config', Array, true)
+#3 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Foundation\Application->resolve('config', Array)
+#4 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(781): Illuminate\Container\Container->make('config', Array)
+#5 /home/openthedoor/publ in /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[02-Sep-2020 05:24:16 Etc/GMT] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('config')
+#1 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('config')
+#2 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('config', Array, true)
+#3 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Foundation\Application->resolve('config', Array)
+#4 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(781): Illuminate\Container\Container->make('config', Array)
+#5 /home/openthedoor/publ in /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[02-Sep-2020 05:24:27 Etc/GMT] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('config')
+#1 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('config')
+#2 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('config', Array, true)
+#3 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Foundation\Application->resolve('config', Array)
+#4 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(781): Illuminate\Container\Container->make('config', Array)
+#5 /home/openthedoor/publ in /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[02-Sep-2020 05:24:43 Etc/GMT] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('config')
+#1 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('config')
+#2 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('config', Array, true)
+#3 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Foundation\Application->resolve('config', Array)
+#4 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(781): Illuminate\Container\Container->make('config', Array)
+#5 /home/openthedoor/publ in /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[02-Sep-2020 05:24:46 Etc/GMT] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('config')
+#1 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('config')
+#2 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('config', Array, true)
+#3 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Foundation\Application->resolve('config', Array)
+#4 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(781): Illuminate\Container\Container->make('config', Array)
+#5 /home/openthedoor/publ in /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[02-Sep-2020 05:24:50 Etc/GMT] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('config')
+#1 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('config')
+#2 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('config', Array, true)
+#3 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Foundation\Application->resolve('config', Array)
+#4 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(781): Illuminate\Container\Container->make('config', Array)
+#5 /home/openthedoor/publ in /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[02-Sep-2020 05:26:48 Etc/GMT] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('config')
+#1 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('config')
+#2 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('config', Array, true)
+#3 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Foundation\Application->resolve('config', Array)
+#4 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(781): Illuminate\Container\Container->make('config', Array)
+#5 /home/openthedoor/publ in /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[02-Sep-2020 05:26:50 Etc/GMT] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('config')
+#1 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('config')
+#2 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('config', Array, true)
+#3 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Foundation\Application->resolve('config', Array)
+#4 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(781): Illuminate\Container\Container->make('config', Array)
+#5 /home/openthedoor/publ in /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[02-Sep-2020 05:26:56 Etc/GMT] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('config')
+#1 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('config')
+#2 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('config', Array, true)
+#3 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Foundation\Application->resolve('config', Array)
+#4 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(781): Illuminate\Container\Container->make('config', Array)
+#5 /home/openthedoor/publ in /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[02-Sep-2020 05:33:38 Etc/GMT] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('config')
+#1 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('config')
+#2 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('config', Array, true)
+#3 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Foundation\Application->resolve('config', Array)
+#4 /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(781): Illuminate\Container\Container->make('config', Array)
+#5 /home/openthedoor/publ in /home/openthedoor/public_html/offers/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807

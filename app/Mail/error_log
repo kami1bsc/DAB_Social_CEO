@@ -1,0 +1,2 @@
+[11-Sep-2020 02:15:07 UTC] PHP Fatal error:  Class 'Illuminate\Mail\Mailable' not found in /home/ti7xy3t0muwb/public_html/offers/app/Mail/VerifyMail.php on line 10
+[11-Sep-2020 02:17:06 UTC] PHP Fatal error:  Class 'Illuminate\Mail\Mailable' not found in /home/ti7xy3t0muwb/public_html/offers/app/Mail/ForgotPassword.php on line 10

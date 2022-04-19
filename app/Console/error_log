@@ -1,0 +1,1 @@
+[11-Sep-2020 04:06:18 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/ti7xy3t0muwb/public_html/offers/app/Console/Kernel.php on line 8

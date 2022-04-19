@@ -1,0 +1,12 @@
+[07-Sep-2020 15:01:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/ti7xy3t0muwb/public_html/offers/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ti7xy3t0muwb/public_html/offers/bootstrap/app.php on line 14
+[08-Sep-2020 13:18:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/ti7xy3t0muwb/public_html/offers/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ti7xy3t0muwb/public_html/offers/bootstrap/app.php on line 14
+[10-Sep-2020 02:44:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/ti7xy3t0muwb/public_html/offers/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ti7xy3t0muwb/public_html/offers/bootstrap/app.php on line 14

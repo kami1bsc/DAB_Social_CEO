@@ -1,0 +1,5 @@
+[07-Sep-2020 11:59:27 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/ti7xy3t0muwb/public_html/offers/tests/TestCase.php on line 7
+[09-Sep-2020 04:53:28 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/ti7xy3t0muwb/public_html/offers/tests/TestCase.php on line 7
+[09-Sep-2020 19:21:25 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/ti7xy3t0muwb/public_html/offers/tests/TestCase.php on line 7
+[10-Sep-2020 09:15:22 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/ti7xy3t0muwb/public_html/offers/tests/TestCase.php on line 7
+[10-Sep-2020 17:13:46 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/ti7xy3t0muwb/public_html/offers/tests/TestCase.php on line 7

@@ -1,0 +1,5 @@
+[09-Sep-2020 02:17:51 UTC] PHP Notice:  Undefined variable: factory in /home/ti7xy3t0muwb/public_html/offers/database/factories/UserFactory.php on line 20
+[09-Sep-2020 02:17:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/ti7xy3t0muwb/public_html/offers/database/factories/UserFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/ti7xy3t0muwb/public_html/offers/database/factories/UserFactory.php on line 20

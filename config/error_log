@@ -1,0 +1,96 @@
+[07-Sep-2020 08:56:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ti7xy3t0muwb/public_html/offers/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ti7xy3t0muwb/public_html/offers/config/app.php on line 16
+[07-Sep-2020 09:00:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ti7xy3t0muwb/public_html/offers/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ti7xy3t0muwb/public_html/offers/config/mail.php on line 16
+[07-Sep-2020 09:00:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/ti7xy3t0muwb/public_html/offers/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ti7xy3t0muwb/public_html/offers/config/view.php on line 17
+[07-Sep-2020 10:06:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ti7xy3t0muwb/public_html/offers/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/ti7xy3t0muwb/public_html/offers/config/cache.php on line 21
+[07-Sep-2020 10:06:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ti7xy3t0muwb/public_html/offers/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ti7xy3t0muwb/public_html/offers/config/queue.php on line 16
+[07-Sep-2020 11:59:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ti7xy3t0muwb/public_html/offers/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/ti7xy3t0muwb/public_html/offers/config/hashing.php on line 32
+[07-Sep-2020 11:59:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ti7xy3t0muwb/public_html/offers/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/ti7xy3t0muwb/public_html/offers/config/logging.php on line 20
+[07-Sep-2020 11:59:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ti7xy3t0muwb/public_html/offers/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/ti7xy3t0muwb/public_html/offers/config/session.php on line 21
+[07-Sep-2020 12:01:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ti7xy3t0muwb/public_html/offers/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ti7xy3t0muwb/public_html/offers/config/database.php on line 18
+[07-Sep-2020 12:01:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ti7xy3t0muwb/public_html/offers/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ti7xy3t0muwb/public_html/offers/config/services.php on line 18
+[07-Sep-2020 12:06:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ti7xy3t0muwb/public_html/offers/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ti7xy3t0muwb/public_html/offers/config/filesystems.php on line 16
+[07-Sep-2020 12:06:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ti7xy3t0muwb/public_html/offers/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ti7xy3t0muwb/public_html/offers/config/broadcasting.php on line 18
+[09-Sep-2020 12:54:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ti7xy3t0muwb/public_html/offers/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ti7xy3t0muwb/public_html/offers/config/app.php on line 16
+[09-Sep-2020 12:58:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ti7xy3t0muwb/public_html/offers/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ti7xy3t0muwb/public_html/offers/config/mail.php on line 16
+[09-Sep-2020 12:58:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/ti7xy3t0muwb/public_html/offers/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ti7xy3t0muwb/public_html/offers/config/view.php on line 17
+[09-Sep-2020 15:59:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ti7xy3t0muwb/public_html/offers/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/ti7xy3t0muwb/public_html/offers/config/cache.php on line 21
+[09-Sep-2020 15:59:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ti7xy3t0muwb/public_html/offers/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ti7xy3t0muwb/public_html/offers/config/queue.php on line 16
+[09-Sep-2020 16:06:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ti7xy3t0muwb/public_html/offers/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/ti7xy3t0muwb/public_html/offers/config/hashing.php on line 32
+[09-Sep-2020 16:06:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ti7xy3t0muwb/public_html/offers/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/ti7xy3t0muwb/public_html/offers/config/logging.php on line 20
+[09-Sep-2020 16:06:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ti7xy3t0muwb/public_html/offers/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/ti7xy3t0muwb/public_html/offers/config/session.php on line 21
+[09-Sep-2020 19:23:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ti7xy3t0muwb/public_html/offers/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ti7xy3t0muwb/public_html/offers/config/database.php on line 18
+[09-Sep-2020 19:23:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ti7xy3t0muwb/public_html/offers/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ti7xy3t0muwb/public_html/offers/config/services.php on line 18
+[09-Sep-2020 19:27:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ti7xy3t0muwb/public_html/offers/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ti7xy3t0muwb/public_html/offers/config/filesystems.php on line 16
+[09-Sep-2020 19:28:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ti7xy3t0muwb/public_html/offers/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ti7xy3t0muwb/public_html/offers/config/broadcasting.php on line 18

@@ -1,0 +1,4 @@
+[11-Sep-2020 08:37:08 UTC] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/ti7xy3t0muwb/public_html/offers/database/seeds/BoardSeeder.php on line 6
+[11-Sep-2020 08:37:13 UTC] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/ti7xy3t0muwb/public_html/offers/database/seeds/UsersSeeder.php on line 7
+[11-Sep-2020 08:48:37 UTC] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/ti7xy3t0muwb/public_html/offers/database/seeds/CategorySeeder.php on line 5
+[11-Sep-2020 08:48:42 UTC] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/ti7xy3t0muwb/public_html/offers/database/seeds/DatabaseSeeder.php on line 5
